@@ -28,9 +28,3 @@ Aplicación web interactiva de **Sudoku** desarrollada en PHP, HTML5, CSS3 y Jav
 
 ### Requisitos
 * Un servidor web con soporte para **PHP 7.4+** (XAMPP, WAMP, Nginx, o el servidor integrado de PHP).
-
-### Ejecución Local
-
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/sudoku-buho-sabio.git](https://github.com/TU_USUARIO/sudoku-buho-sabio.git)
